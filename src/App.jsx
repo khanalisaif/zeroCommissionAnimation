@@ -89,15 +89,15 @@ export default function App() {
       <PageLoader />
       <Navbar />
       <Hero />
-      <Ticker />
-      <About />
-      <Team />
-      <Services />
-      <HowItWorks />
-      <Values />
-      <Testimonials />
-      <Contact />
-      <Footer />
+       <Ticker /> 
+      {/* <About /> */}
+      {/* <Team /> */}
+      {/* <Services /> */}
+      {/* <HowItWorks /> */}
+      {/* <Values /> */}
+      {/* <Testimonials /> */}
+      {/* <Contact /> */}
+      {/* <Footer /> */}
     </div>
   )
 }
